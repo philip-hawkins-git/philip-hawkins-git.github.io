@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Arts in American History, University of South Florida, Tampa, FL, 2006-2009
+* Bachelor of Arts in History, University of South Florida, St. Petersburg, FL, 2001-2005
 
 Work experience
 ======
