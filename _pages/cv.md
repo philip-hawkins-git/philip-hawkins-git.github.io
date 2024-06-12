@@ -48,7 +48,7 @@ Course Certificates
   * [Analyze Data to Answer Questions](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20RT8KYD5VB659.pdf), Google, Coursera, April 19, 2024
   * [Process Data from Dirty to Clean](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%207JQUQLQ3X4HJ.pdf), Google, Coursera, March 16, 2024
   * [Prepare Data for Exploration](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20QFU9ZAWCYDZL.pdf), Google, Coursera, January 24, 2024
-  * Ask Questions to Make Data-Driven Decisions, Google, Coursera, November 10, 2023
+  * [Ask Questions to Make Data-Driven Decisions](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20Z42TU8KRNU3K.pdf), Google, Coursera, November 10, 2023
   * [Foundations: Data, Data, Everywhere](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20MRKEEGM3GPW8.pdf), Google, Coursera, April 22, 2023
 * [Foundations of Digital Marketing and E-commerce](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20M96QXCW8XTGX.pdf), Google, Coursera, February 24, 2024
 * [Market Research and Consumer Behavior](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20JD5GNV6ZAXCM.pdf), IE Business School, Coursera, December 2, 2023
