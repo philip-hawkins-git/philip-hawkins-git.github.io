@@ -42,7 +42,7 @@ Skills
 Course Certificates
 ======
 * Google Data Analytics: Professional Certificate, Google, Coursera, June 8, 2024
-  * [Google Data Analytics Capstone: Complete a Case Study](files/Coursera 43LKHWCRCWV2.pdf), Google, Coursera, June 8, 2024
+  * [Google Data Analytics Capstone: Complete a Case Study](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%2043LKHWCRCWV2.pdf), Google, Coursera, June 8, 2024
   * Data Analysis with R Programming, Google, Coursera, May 17, 2024
   * Share Data Through the Art of Visualization, Google, Coursera, April 24, 2024
   * Analyze Data to Answer Questions, Google, Coursera, April 19, 2024
