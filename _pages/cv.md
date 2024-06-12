@@ -58,11 +58,11 @@ Course Certificates
 * [Programming for Everybody: Getting Started with Python](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20D5EJQ898YJ3R.pdf), University of Michigan, Coursera, February 21, 2023
 * [Everyday Excel, Part 1](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20XMP55EC2S6BQ.pdf), University of Colorado Boulder, February 18, 2023
 
-Publications
+Academic Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* ["New World Sodom: Biblical Tales of Conquest and Acculturation"](http://www.ejhs.org/volume15/NewWorld.html), *Electronic Journal of Human Sexuality*, Volume 15, January 13, 2012
+* ["The Textual Archaeology of Seminole Colonization"](https://d1wqtxts1xzle7.cloudfront.net/30620572/FA__Vol_64_no_2_Austin-libre.pdf?1391859061=&response-content-disposition=inline%3B+filename%3DGunflints_from_Fort_Brooke_A_Study_and_S.pdf&Expires=1718206187&Signature=LbloPBY-q0l7hUZi6PiijRoVKmipZRN0Gb3aWcxweDHi2-DGh7rASeRS~Myp8SqZsG09WHtVT0tikROQ-2Ru2Iw8sWywkereC0j3VXwOABcqL8u93DaMgHHoyKznV9hUxhAJNDVL-KNZhyRm2o~zJZ4MKo3KwD-lRz6wdScucSauzJoc3UVC9M1IctOW1tKcS9Igc3ufqpWE~BdSUTk-xs7hVYhd88zP~8Al-SD70cyE5pTjAng6NNPu88~wYZFuI6HgVjlOmsMfEPzpcysILaVkSUEq3kdqMBO~1s2n~Y0AvNCQMq0gfqadhX6HgL~Qe3JSRMW8Jn6kn1RwXBYRNA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) *Florida Anthropologist*, 64 (June 2011)
+* [“Creek Schism: Seminole Genesis Revisited”](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=521990c3f08bfcf6bfc1c74c29bc591a71b0fe08) (2009) Master’s Thesis in History, University of South Florida, Tampa
   
 Talks
 ======
