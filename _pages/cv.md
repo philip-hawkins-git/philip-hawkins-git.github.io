@@ -16,20 +16,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-Current: Data Analyst
+  * MarketCast
+  * Primary duties include: logging, verifying, and coding commercial TV, internet, and social media airings using proprietary software
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2022: Data Analyst
+  * Phoenix Marketing International
+  * Primary duties include: logging, verifying, and coding commercial TV, internet, and social media airings using proprietary software  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010-2018: Senior Data Production Associate
+  * Nielsen Company
+  * Primary duties include: watching, analyzing, reconciling, and preparing ad airings using proprietary commercial recognition software
   
 Skills
 ======
