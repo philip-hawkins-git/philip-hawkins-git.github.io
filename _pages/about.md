@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Philip Hawkins"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome
 Welcome to my landing page. It is still very much under construction.
 
 # Biography
