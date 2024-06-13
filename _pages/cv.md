@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Philip%20Hawkins%20-%20Resume%20(2).docx)
+
 Education
 ======
 * Master of Arts in American History, University of South Florida, Tampa, FL, 2006-2009
