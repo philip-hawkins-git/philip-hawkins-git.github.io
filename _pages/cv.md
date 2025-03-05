@@ -43,6 +43,7 @@ Skills
 
 Course Certificates
 ======
+* [Creating Interactive Tableau Dashboards](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/CertificateOfCompletion_Creating Interactive Tableau Dashboards.pdf), LinkedIn Learning, March 5, 2024
 * [Google Data Analytics: Professional Certificate](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20W7LPPYYGFKP8.pdf), Google, Coursera, June 8, 2024
   * [Google Data Analytics Capstone: Complete a Case Study](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%2043LKHWCRCWV2.pdf), Google, Coursera, June 8, 2024
   * [Data Analysis with R Programming](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/files/Coursera%20KYNGPU8TU99P.pdf), Google, Coursera, May 17, 2024
