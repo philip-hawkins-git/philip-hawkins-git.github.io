@@ -1,6 +1,6 @@
 ---
 title: 'Sound Harvest: A Safe and User-Friendly YouTube to .MP3 Conversion Tool'
-date: 2025-02-20
+date: 2025-03-19
 permalink: /posts/2025/03/soundharvest/
 tags:
   - Python
