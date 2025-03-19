@@ -1,5 +1,5 @@
 ---
-title: 'Data Viz: Sal's Pizzeria'
+title: 'Data Viz: Pizza Sales'
 date: 2025-03-19
 permalink: /posts/2025/03/salspizzeria/
 tags:
